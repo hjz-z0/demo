@@ -15,7 +15,7 @@ public class DemoApplication {
 
     @RequestMapping
     public String hello(){
-        return "hello springboot !";
+        return "hello springboot! && idea && github!";
     }
 
 }
